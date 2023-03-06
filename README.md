@@ -14,50 +14,50 @@ JPA, JSOUP, Morphology Library Lucene, SQL, Spring Framework.
 Страница содержит три вкладки.
 
 ### Вкладка DASHBOARD
-![image](\images\Dashboard.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/Dashboard.jpg)
 Вкладка по умолчанию. На ней отображается общая статистика по всем проиндексированным сайтам, а также статистика и 
 статус по каждому из сайтов.
 
 ### Вкладка MANAGEMENT
-![image](\images\Management.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/Management.jpg)
 На этой вкладке находятся инструменты управления поисковым движком — запуск и остановка полной индексации
 (переиндексации), а также возможность добавить (обновить)отдельную страницу.
 
 ### Вкладка SEARCH
-![image](\images\Search.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/Search.jpg)
 На ней находится поле поиска и выпадающий список сайтов, по которому выполняется поиск, а при нажатии на кнопку SEARCH 
 выводятся результаты поиска.
 
 ## Индексация сайтов:
 
 ### 1.	В адресной строке браузера наберите localhost:8080. Нажмите на клавиатуре Enter.
-![image](\images\1.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/1.jpg)
 
 ### 2.	В верхнем поле введите root, в нижнем - !DC77lqdc, нажмите кнопку Sign in.
-![image](\images\1.5.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/1.5.jpg)
 
 ### 3.	В обновившейся странице нажмите выберете вкладку MANAGEMENT.
-![image](\images\2.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/2.jpg)
 
 ### 4.	Нажмите на кнопку START INDEXING.
-![image](\images\3.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/3.jpg)
 
 
 ## Поиск по сайту:
 
 ### 1.	В адресной строке браузера наберите localhost:8080. Нажмите на клавиатуре Enter.
-![image](\images\1.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/1.jpg)
 
 ### 2.	В верхнем поле введите root, в нижнем - !DC77lqdc, нажмите кнопку Sign in.
-![image](\images\1.5.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/1.5.jpg)
 
 ### 3.	В обновившейся странице выберете вкладку SEARCH.
-![image](\images\4.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/4.jpg)
 
 ### 4.	В ниспадающем списке выберете сайт, по которому хотите осуществить поиск.
-![image](\images\5.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/5.jpg)
 
 ### 5.	Введите в поле искомое слово. Нажмите кнопку SEARCH.
-![image](\images\6.jpg)
+![image](https://github.com/vlad17774/SearchEngine/tree/master/images/6.jpg)
 
 
