@@ -1,3 +1,66 @@
+#EN
+# Search Engine functions:
+ 
+<li>show site info;</li>
+<li>site indexing;</li>
+<li>search in indexed sites.</li>
+
+## Used stack:
+JPA, JSOUP, Morphology Library Lucene, SQL, Spring Framework.  
+
+## Web-page
+<p>
+login: root, password: !DC77lqdc to enter the web-page at address localhost:8080.
+<p>
+Web-page contains three tabs.
+
+### Tab DASHBOARD
+![image](/images/Dashboard.jpg)
+It’s the tab by default. Contains statistics regarding all indexed sites as well as each site statistics.
+
+### Tab MANAGEMENT
+![image](/images/Management.jpg)
+This tab has tools allow you to manage search engine – start and stop index, reindex and also has the ability to add (renew) certain page.
+
+### Tab SEARCH
+![image](/images/Search.jpg)
+There are search field and drop down list of sites on it. Search goes in that list. By pushing SEARCH button results show up. 
+
+## Site indexing:
+
+### 1. Type localhost:8080 in browser address bar. Push Enter on the keyboard.
+![image](/images/1.jpg)
+
+### 2. Type root in top field. !DC77lqdc – in the bottom. Click on Sign in.
+![image](/images/1.5.jpg)
+
+### 3. On updated page click on MANAGEMENT tab. 
+![image](/images/2.jpg)
+
+### 4. Click on START INDEXING.
+![image](/images/3.jpg)
+
+
+## Search on site:
+
+### 1. Type localhost:8080 in browser address bar. Push Enter on the keyboard.
+![image](/images/1.jpg)
+
+### 2. Type root in top field. !DC77lqdc – in the bottom. Click on Sign in.
+![image](/images/1.5.jpg)
+
+### 3. On updated page click on SEARCH tab.
+![image](/images/4.jpg)
+
+### 4. On drop down list click on site you want to search in. 
+![image](/images/5.jpg)
+
+### 5. Enter the word you are searching for in the field. Click on SEARCH.
+![image](/images/6.jpg)
+
+
+#RU
+
 # Функции поискового движка:
  
 <li>выдача основных сведений по сайтам;</li>
